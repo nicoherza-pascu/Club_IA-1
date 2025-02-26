@@ -12,7 +12,7 @@ After the project is cloned, it's necessary to create an enviroment inside the p
 
 First we move through the folders using cd command. Then we create the enviroment: 
 * py -m venv venv
-* Set-ExecutionPolicy Unrestricted -Scope Process
+* Set-ExecutionPolicy Unrestricted -Scope Proces
 * .\venv\Scripts\Activate
 
 After we have our enviroment created you must start installing some libraries. A requirements.txt is not available as we want to recreate the experience of start working in a project for the first time.
